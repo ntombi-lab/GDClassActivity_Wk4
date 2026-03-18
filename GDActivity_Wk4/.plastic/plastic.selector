@@ -1,0 +1,4 @@
+repository "GDActivity_Wk4/GDActivity_Wk4@1375873930830@cloud"
+  path "/"
+    br "/main"
+    co "/main"
